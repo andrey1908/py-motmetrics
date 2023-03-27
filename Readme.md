@@ -1,3 +1,10 @@
+Usage (in python inside directory with this repository):
+```
+from calc_metrics import motMetricsEnhancedCalculator
+motMetricsEnhancedCalculator('gt.txt', 'results.txt')
+```
+___
+
 [![PyPI version](https://badge.fury.io/py/motmetrics.svg)](https://badge.fury.io/py/motmetrics) [![Build Status](https://github.com/cheind/py-motmetrics/actions/workflows/python-package.yml/badge.svg)](https://github.com/cheind/py-motmetrics/actions/workflows/python-package.yml)
 
 # py-motmetrics
